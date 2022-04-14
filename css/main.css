@@ -528,7 +528,6 @@ align-items: center;
 }
 .youtube .youtube__area {
   width: 1920px;
-  background-color: orange;
   position: absolute;
   left: 50%;
   margin-left: calc(1920px / -2);
